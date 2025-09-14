@@ -12,4 +12,4 @@ console.log(increment());
 console.log(increment());
 console.log(increment());
 console.log(increment());
-console.log(increment());
+console.log(increment()); 
